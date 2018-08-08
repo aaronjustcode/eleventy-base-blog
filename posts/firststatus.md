@@ -1,10 +1,10 @@
 ---
-title: Blog Attempt No. 1,409
+title: Blog to Twitter
 tags:
   - post
-  - blog
+  - status
 layout: layouts/post.njk
 ---
 Hey. Since Big Social Media® can't control the bad behavior of others, I'm going to try posting here and following others on their own blogs via ye olde RSS feed.
 
-[Dust off your feed reader and follow along.](https://attnplz.com/feed/feed.xml)
+[Dust off your feed reader and follow along.](https://attnplz.com/feed/status.xml)

@@ -8,6 +8,13 @@
     "url": "https://attnplz.com/feed/feed.xml",
     "id": "https://attnplz.com/"
   },
+  "statusfeed": {
+    "subtitle": "Aaron Alexander's blog. Low expectations required.",
+    "filename": "status.xml",
+    "path": "/feed/status.xml",
+    "url": "https://attnplz.com/feed/status.xml",
+    "id": "https://attnplz.com/"
+  },
   "author": {
     "name": "Aaron Alexander",
     "email": "asalexander@gmail.com"
