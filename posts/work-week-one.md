@@ -7,7 +7,7 @@ layout: layouts/post.njk
 ---
 Last week, I caught myself wondering what other web developers work on day-to-day. My feeds are full of amazing projects and designs, leading to a major case of impostor syndrome. So why don't we talk about the mundane projects more often?
 
-*Here's my first attempt at documenting the mundane:*
+_Here's my first attempt at documenting the mundane:_
 
 - Campaign Monitor newsletter template;
 - edits to two WordPress sites currently in development;
