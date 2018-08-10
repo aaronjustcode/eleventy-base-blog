@@ -1,5 +1,6 @@
 ---
 title: Blog to Twitter
+date: 2017-08-06
 tags:
   - post
   - status
