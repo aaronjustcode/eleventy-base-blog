@@ -46,7 +46,7 @@ I may have a podcast problem.
 - [Sum Of All Parts](https://itunes.apple.com/us/podcast/sum-of-all-parts-abc-rn/id1288412022?mt=2)
 - [Teach Me How to Money](https://itunes.apple.com/us/podcast/teach-me-how-to-money/id1296257144?mt=2)
 - [The Daily](https://itunes.apple.com/us/podcast/the-daily/id1200361736?mt=2)
-- [The Daily Show With Trevor Noah: Ears Edition]
+- [The Daily Show With Trevor Noah: Ears Edition](https://itunes.apple.com/us/podcast/the-daily-show-with-trevor-noah-ears-edition/id1334878780?mt=2)
 - [The Indicator from Planet Money](https://itunes.apple.com/us/podcast/the-indicator-from-planet-money/id1320118593?mt=2)
 - [The Nod](https://itunes.apple.com/us/podcast/the-nod/id1250583865?mt=2)
 - [The RFK Tapes](https://itunes.apple.com/us/podcast/the-rfk-tapes/id1391405921?mt=2)
