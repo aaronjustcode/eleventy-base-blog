@@ -1,5 +1,5 @@
 ---
-title: Status [2018-08-13 12:56]
+title: 2018-08-13 12:56
 date: 2018-08-13
 tags:
   - post
